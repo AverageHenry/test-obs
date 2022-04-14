@@ -1,6 +1,6 @@
-site_name: 
-site_description: 
-site_url: 
+site_name: Study Notes
+site_description: Stud Notes
+site_url: https://averagehenry.github.io/test-obs/
 
 theme:
     name: 'material'
